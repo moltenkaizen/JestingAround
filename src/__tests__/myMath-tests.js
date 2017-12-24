@@ -1,4 +1,4 @@
-const MathModule = require('../myMath');
+const MathModule = require('../myMath')
 
 it('works', () => {
   expect(1).toBe(1)
